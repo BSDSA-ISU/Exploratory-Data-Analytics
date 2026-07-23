@@ -14,12 +14,13 @@
 
 Exploratory Data Analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods.
 
-Key objectives include:
+**Key objectives include:**
 
-Uncovering underlying structures and patterns.
-Detecting anomalies, outliers, and errors.
-Testing hypotheses or checking assumptions.
-Identifying key variables and relationships for modeling.
+- Uncovering underlying structures and patterns.
+- Detecting anomalies, outliers, and errors.
+- Testing hypotheses or checking assumptions.
+- Identifying key variables and relationships for modeling.
+
 It serves as the critical initial step before applying formal statistical models or machine learning algorithms.
 
 ## Topics
